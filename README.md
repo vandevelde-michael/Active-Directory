@@ -12,7 +12,7 @@
 Active Directory est une solution de gestion des identités et des accès développée par Microsoft. Il permet d'organiser, sécuriser et administrer les ressources d'un réseau informatique de manière centralisée. Ce projet vise à fournir une analyse approfondie de son fonctionnement, ses avantages et ses limitations.
 
 ## Documentation
-Pour une documentation détaillée, veuillez consulter notre page Notion. (https://drive.google.com/file/d/1cc19-IE14AXPkwu11QX33MjkltZCNyyF/view?usp=sharing)
+Pour une documentation détaillée, veuillez consulter notre [page Notion](https://drive.google.com/file/d/1cc19-IE14AXPkwu11QX33MjkltZCNyyF/view?usp=sharing)
 
 ## Installation
 
